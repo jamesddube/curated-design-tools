@@ -42,6 +42,7 @@
 - [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
 - [IRA Design](https://www.creative-tim.com/ira-design) - Build your own amazing illustrations
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
+- [StreamLine Illustrations](https://www.streamlineicons.com/ux/free-illustrations.html) - Streamline Illustrations is for everyone: designers, developers, marketers, entrepreneurs, business owners and other makers and creators can all put it to a good use
 
 ### Emojis
 
